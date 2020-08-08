@@ -15,7 +15,6 @@ fs.writeFileSync(
 fs.writeFileSync(
   "./utils/scripts/checkScenario.sh",
   `
-echo " --------------------------------";
 echo " Testing your SmartContract .... ";
 echo " --------------------------------";
 printf "\n Test Summary : \n"
